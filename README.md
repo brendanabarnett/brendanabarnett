@@ -1,1 +1,16 @@
-Hey! I'm Brendan.
+# Hey! I'm Brendan Barnett👋
+
+### 👨‍🎓 About Me
+- I'm currently an Honors Computer Science and Engineering student at UConn.
+- Proficient in Python, C, C++, JavaScript/HTML/CSS, and Java.
+- When I'm not coding, I love lifting, running, playing basketball, and meeting new people!
+
+### 💡 What I'm Up To
+- Currently an AI/ML reseacher at UConn exploring innovative business applications and eager to connect with the ML community.
+- Excited to enhance my web development skills by diving deeper into front-end frameworks like React.js.
+
+### 🌐 Let's Connect!
+- If you're working on something cool or just want to chat, feel free to reach out!
+- Check out my [LinkedIn](https://www.linkedin.com/in/brendanabarnett/) profile.
+
+**Let's build something awesome together! 😤💪**
