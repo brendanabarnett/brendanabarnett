@@ -1,7 +1,7 @@
 # Hey! I'm Brendan Barnett👋
 
 ### 👨‍🎓 About Me
-- I'm currently an Honors Computer Science and Engineering undergrad at UConn. Minors in Math and Entrepreneurship.
+- I'm currently an Honors Computer Science and Engineering undergrad at UConn, pursuing minors in Math and Entrepreneurship.
 - Proficient in Python, C, C++, JavaScript/HTML/CSS, and Java.
 - When I'm not coding, I love lifting, running, playing basketball, and meeting new people!
 
