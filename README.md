@@ -1,4 +1,4 @@
-# Hey! I'm Brendan Barnett👋
+# Hey! I'm Brendan👋
 
 ### 👨‍🎓 About Me
 - I'm currently an Honors Computer Science and Engineering undergrad at UConn, pursuing minors in Math and Entrepreneurship.
