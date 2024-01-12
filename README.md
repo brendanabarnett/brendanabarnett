@@ -6,13 +6,13 @@
 - When I'm not coding, I love running, snowboarding, playing basketball, and meeting new people!
 
 ### 💡 What I'm Up To
-- Currently an AI/ML reseacher at UConn exploring innovative business applications and eager to connect with the ML community.
+- AI/ML reseacher at UConn exploring innovative business applications and eager to connect with the ML community.
 - Team Lead at UConn Technology Support Center.
 - Freelance website designer/developer.
-- Excited to enhance my web development skills by diving deeper into front-end frameworks like React.js.
+- Excited to learn more about the applications of continuous graph learning.
 
 ### 🌐 Let's Connect!
 - If you're working on something cool or just want to chat, feel free to reach out!
-- Check out my [LinkedIn](https://www.linkedin.com/in/brendanabarnett/) profile.
+- Check out my [personal website](https://brendanabarnett.com/).
 
 **Let's build something awesome together! 😤💪**
