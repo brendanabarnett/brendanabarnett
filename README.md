@@ -1,17 +1,19 @@
 # Hey! I'm Brendan👋
 
 ### 👨‍🎓 About Me
-- I'm currently an Honors Computer Science and Engineering undergrad at UConn, pursuing minors in Math and Entrepreneurship.
-- Computer languages: Python, C++, C#, C, JavaScript/TypeScript, HTML/CSS, Java.
-- Libraries & Frameworks: React.js, Node.js, .NET, SQLite, PyTorch, Scikit-learn, Keras, TensorFlow, Flask.
+- An Honors Computer Science and Engineering student at UConn, pursuing minors in Math and Entrepreneurship.
+- Computer languages: Python, C++, C, C#, JavaScript/TypeScript, HTML/CSS, SQL, Java, PHP, RISC-V Assembly.
+- Libraries & Frameworks: React.js, Node.js, Jest, .NET, PyTorch, Scikit-learn, Keras, TensorFlow, TA-Li.
 - When I'm not coding, I love snowboarding, boxing, running side hustles, and meeting new people!
 
 ### 💡 What I'm Up To
-- AI researcher at UConn exploring innovative business applications and eager to connect with the ML community.
+- SWE intern at Bentley Systems, working on a digital twin cloud software product.
+- AI researcher at UConn.
 - Analyst at Hillside Ventures, UConn's $1mm student-run VC fund.
-- Founder at Green Elm Web Solutions, building websites for CT-based small businesses and startups
+- Founder at Green Elm Web Designs, building websites for CT-based small businesses and startups.
 - Team Lead at UConn's Technology Support Center.
 - CSE 3100 Systems Programming TA.
+- Werth Innovators Fellow.
 - Constantly learning and building cool stuff.
 
 ### 🌐 Let's Connect!
