@@ -12,7 +12,7 @@
 - Founder at Green Elm Web Designs, building websites for CT-based small businesses and startups.
 - CSE 3100 Systems Programming TA.
 - Werth Innovator.
-- Prev SWE intern at Bentley: predictive AI and data visualization features for a cloud-based infrastructure software.
+- Prev SWE intern at Bentley: built predictive AI and data visualization features for a cloud-based infrastructure software.
 - Prev Team Lead at UConn's Technology Support Center.
 
 ### 🌐 Let's Connect!
