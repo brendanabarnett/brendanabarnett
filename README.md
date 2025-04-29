@@ -3,7 +3,7 @@
 ### 👨‍🎓 About Me
 - CSE + Math student at UConn
 - Current fav language is C 😭
-- I love snowboarding, boxing, reading and being outside
+- I love snowboarding, boxing, reading, and being outside
 
 ### 💡 What I'm Working On
 - DS Intern at Microsoft
