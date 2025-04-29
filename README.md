@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 About Me
 - CSE + Math student at UConn
-- Languages: Python, C/C++, C#, R, JavaScript/TypeScript, HTML/CSS, SQL, RISC-V Assembly
+- Current fav language is C 😭
 - I love snowboarding, boxing, reading and being outside
 
 ### 💡 What I'm Working On
